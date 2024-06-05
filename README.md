@@ -25,3 +25,31 @@ This project provides some crucial insights for customers sales data over two ye
 ## Top insights
 
 
+◾ 📌 **Top 5 Countries by Sales.**<br>
+ 
+◾ 📌 **Top 5 Products by Sales.**<br>
+  
+◾ 📌 **Top 10 Countries by unique customers count.**<br>
+
+◾ 📌 **Year on Year Sales Growth.**<br> 
+
+◾ 📌 **Cumulative sum of sales by month for each year.**<br>
+
+◾ 📌 **Count of repeat customers for each year.**<br>
+
+## Recommendations
+
+  > 1. Our insights suggests that we’re doing exceptionally well in United Kingdom country with respect to sales but there are few more countries where potential growth is observed like EIRE, Netherlands, Germany and France. So we should focus on expansion of business in other countries as well.
+
+
+  > 2. In the year 2010, there was significant sales growth but it was reduced in 2011. For an exponential growth, our sales should show positive growth year on year so we need to figure out the factors affecting the sales.
+
+>   3. With respect to previous point, we have one more insight which shows cumulative sum by months which can help us to identify which month contributed the most and least in the year 2010.
+
+>   4. One key thing to note is we’re maintaining good amount of repeat customers which shows customer’s trust on the company.
+
+
+
+
+
+
